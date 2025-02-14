@@ -1,0 +1,11 @@
+body{
+    background-color: #d7a222;
+}
+h1{
+    color: red;
+    text-transform: uppercase;
+}
+img{
+    width: 400px;
+    height: 300px;
+}
